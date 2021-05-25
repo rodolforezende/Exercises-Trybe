@@ -4,14 +4,14 @@
 
 *Exercícios feito junto a Trybe, afim de fixar conteúdos aprendidos*
 
-- [ ] Modúlo 1
-  -   [ ] Bloco 1
-  -   [ ] Bloco 2
-  -   [ ] Bloco 3
-  -   [ ] Bloco 4
-  -   [ ] Bloco 5
-  -   [ ] Bloco 6
-  -   [ ] Bloco 7
-  -   [ ] Bloco 8
-  -   [ ] Bloco 9
-  -   [ ] Bloco 10
+- [x] Modúlo 1
+  -   [x] Bloco 1
+  -   [x] Bloco 2
+  -   [x] Bloco 3
+  -   [x] Bloco 4
+  -   [x] Bloco 5
+  -   [x] Bloco 6
+  -   [x] Bloco 7
+  -   [x] Bloco 8
+  -   [x] Bloco 9
+  -   [x] Bloco 10
